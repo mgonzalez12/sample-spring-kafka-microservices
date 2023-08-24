@@ -1,4 +1,4 @@
-# Microservices with Spring Boot and Kafka Demo Project [![Twitter](https://img.shields.io/twitter/follow/piotr_minkowski.svg?style=social&logo=twitter&label=Follow%20Me)](https://twitter.com/piotr_minkowski)
+# Microservices with Spring Boot and Kafka Demo Project []
 
 [![CircleCI](https://circleci.com/gh/piomin/sample-spring-kafka-microservices.svg?style=svg)](https://circleci.com/gh/piomin/sample-spring-kafka-microservices)
 
